@@ -1,0 +1,31 @@
+Readme
+
+We have implemented the LSTM model for the motion prediction algorithm. The results for the minimum error achieved on id 27 on 14.08.2022 is saved in the respective NN_velocity excel file. 
+A separate folder is created for the LSTM model with the name code_LSTM_Model.
+
+The results are as follows: 
+
+The average displacement error is 1.568 m
+The average final displacement error is 1.713 m
+The average absolute heading error is 6.48 degrees
+
+The other result obtained on the same id on 15.08.2022 is saved as well in the same folder. The result is as follows:
+
+The average displacement error is 2.254 m
+The average final displacement error is 2.043 m
+The average absolute heading error is 21.4 degrees
+
+The excel for the respective results will be found in this folder. 
+
+
+
+We have implemented the FCN Keras model as well by changing the Hyperparameters such as number of layers, number of neurons, and learning rate.
+A separate folder is created for the FCN Keras model with name code_FCN_Keras.
+
+
+
+We compared the results of FCN as well as the LSTM model in our report and presentation.
+
+
+
+Thank you. 
